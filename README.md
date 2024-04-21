@@ -1,5 +1,7 @@
-Import Statements: Importing the required modules random and re.
+**Import Statements:** Importing the required modules random and re.
+
 **Function Definitions:**
+
 **create_markov_chain:** Builds a Markov chain model based on a list of names.
 **select_character:** Selects characters based on their frequencies in the Markov chain.
 **generate_word:** Generates a word using the Markov chain model.
